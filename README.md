@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I'm currently working on: a Bank Management System project (Python/Django)<br>👯 I'm looking to collaborate on: data science & Python-based projects, especially anything involving real datasets or dashboards<br>🌱 I'm looking for help with: internships in Data Science / Analytics<br>🌱 I'm currently learning: Data Science, AI/ML, and Python libraries (NumPy, Pandas, scikit-learn)<br>💬 Ask me about: Python, Django, SQL, or full-stack web development<br>⚡ Fun fact: I once built a slot machine game in Python just to see if I could get the odds right 🎰
+🔭 I’m currently working on: Campus_Link — a college networking platform built with Kotlin & Flutter, and a Bank Management System using Python & Django
+
+👯 I’m looking to collaborate on: Data Science, AI/ML, Python, and full-stack projects
+
+🤝 I’m looking for help with: Building real-world projects and finding opportunities in Data Science, AI/ML, and Analytics
+
+🌱 I’m currently learning: Data Science, AI/ML, Python, NumPy, Pandas, scikit-learn, SQL, and Django
+
+💬 Ask me about: Python, Django, SQL, Data Science, or full-stack development
+
+⚡ Fun fact: I once built a slot machine game in Python just to see if I could get the odds right 🎰
 
 
 ## 🌐 Socials:
